@@ -1,5 +1,5 @@
 // "CannaIoT - masterMindAlpha" - is an Arduino driven,
-// cannabis grow control system for farming and coding enthusiasts.
+// grow control system for farming and coding enthusiasts.
 // Although in early stage the project will be developed for Arduino Uno
 // (with wi-fi connection through ESP8266 module) in Arduino IDE
 // (using C++ similar language) the goal is to write as much code as possible
